@@ -1,0 +1,12 @@
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\bin\_3.JavaScript_Loops_Arrays_Strings.dll.config
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\bin\_3.JavaScript_Loops_Arrays_Strings.dll
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\bin\_3.JavaScript_Loops_Arrays_Strings.pdb
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\obj\Debug\3. JavaScript-Loops-Arrays-Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\obj\Debug\_3.JavaScript_Loops_Arrays_Strings.dll
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings\obj\Debug\_3.JavaScript_Loops_Arrays_Strings.pdb
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings-Homework\3. JavaScript-Loops-Arrays-Strings\bin\_3.JavaScript_Loops_Arrays_Strings.dll.config
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings-Homework\3. JavaScript-Loops-Arrays-Strings\bin\_3.JavaScript_Loops_Arrays_Strings.dll
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings-Homework\3. JavaScript-Loops-Arrays-Strings\bin\_3.JavaScript_Loops_Arrays_Strings.pdb
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings-Homework\3. JavaScript-Loops-Arrays-Strings\obj\Debug\3. JavaScript-Loops-Arrays-Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings-Homework\3. JavaScript-Loops-Arrays-Strings\obj\Debug\_3.JavaScript_Loops_Arrays_Strings.dll
+D:\SoftUni\Javascript\3. JavaScript-Loops-Arrays-Strings\3. JavaScript-Loops-Arrays-Strings-Homework\3. JavaScript-Loops-Arrays-Strings\obj\Debug\_3.JavaScript_Loops_Arrays_Strings.pdb

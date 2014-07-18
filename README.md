@@ -1,4 +1,0 @@
-Javscript
-=========
-
-Javascript-Homeworks
